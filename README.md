@@ -6,7 +6,7 @@ A beautiful, modern project management application built with Morta's core stack
 
 ## 🚀 Live Demo
 
-- **Live Application**: [https://taskflow-demo.vercel.app](https://taskflow-demo.vercel.app) *(to be deployed)*
+- **Live Application**: [https://taskflow-demo.vercel.app](https://taskflow-demo.vercel.app)
 - **GitHub Repository**: [https://github.com/hmz-23/flow-task](https://github.com/hmz-23/flow-task)
 
 ## ✨ Features
